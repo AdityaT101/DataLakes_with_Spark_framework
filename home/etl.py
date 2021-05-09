@@ -10,8 +10,8 @@ from datetime import datetime
 
 
 #Using the Key_id and access key and storing them into local variables.   
-os.environ['AWS_ACCESS_KEY_ID']='AKIATILXASXETUxxxxx'
-os.environ['AWS_SECRET_ACCESS_KEY']='k8yElAFcsnXTV+uFZTSD5cMAhcZ+Kuratxxxxxx'
+os.environ['AWS_ACCESS_KEY_ID']='xxxxx'
+os.environ['AWS_SECRET_ACCESS_KEY']='xxxxxxx'
 
 
 #Creating a spark session. 
